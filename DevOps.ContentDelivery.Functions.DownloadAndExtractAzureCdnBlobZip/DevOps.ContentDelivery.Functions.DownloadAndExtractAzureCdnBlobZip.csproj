@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="CDorst.Common.Functions.DownloadAndExtractZip" Version="2.0.0" />
-    <PackageReference Include="CDorst.DevOps.ContentDelivery.ResolveAzureCdnBlobUrl" Version="1.0.0" />
+    <PackageReference Include="CDorst.DevOps.ContentDelivery.Functions.ResolveAzureCdnBlobUrl" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
